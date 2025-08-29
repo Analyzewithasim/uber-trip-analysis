@@ -19,6 +19,8 @@ CALENDAR(MIN('Trip Details'[Pickup Date]), MAX('Trip Details'[Pickup Date]))
 
 1️⃣ **Overview Dashboard**
 
+![Dashboard Preview](https://github.com/Analyzewithasim/uber-trip-analysis/blob/main/Overview%20Analysis.png)
+
 - KPIs: Total Bookings, Total Revenue, Avg Fare, Total Distance, Avg Distance, Avg Trip Time
 - Visuals: Donut charts (Payment Type, Day vs Night trips), Matrix (Vehicle Type comparison), Card visuals (Frequent Pickup/Drop-off, Farthest Trip)
 
@@ -38,6 +40,9 @@ IF(
 ```
 
 ## 2️⃣ Time Analysis Dashboard
+
+![Dashboard Preview](https://github.com/Analyzewithasim/uber-trip-analysis/blob/main/Time%20Analysis.png)
+
 
 - **Area Chart** → Bookings by Pickup Time (10-min intervals)
 - **Line Chart** → Weekday vs Weekend trends
